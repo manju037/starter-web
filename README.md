@@ -12,6 +12,7 @@ example to show git working.SO added a sample text.
 Again some modifications
 
 ##How to contribute
+trying to understand merge and branch concepts
 
 ##Deployment
 
