@@ -5,6 +5,8 @@ how  to use git and github together.
 
 ##Introduction
 
+example to show git working
+
 ##purpose
 
 ##How to contribute
