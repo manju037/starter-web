@@ -18,4 +18,6 @@ trying to understand merge and branch concepts
 
 Understanding rebasing concepts
 
+Changes after rebasing in myfeature branch
+
 2019 git.training
