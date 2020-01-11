@@ -16,4 +16,6 @@ trying to understand merge and branch concepts
 
 ##Deployment
 
+Understanding rebasing concepts
+
 2019 git.training
