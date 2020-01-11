@@ -9,6 +9,7 @@
 # THANKS
 
     <name>
+	Adding comments in branch myfeature for rebasing practice
 
 # TECHNOLOGY COLOPHON
 
