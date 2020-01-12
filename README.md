@@ -3,6 +3,8 @@
 this is a simple website project for showing
 how  to use git and github together.
 
+Now adding contents for stashing example
+
 ##Introduction
 
 example to show git working.SO added a sample text.
