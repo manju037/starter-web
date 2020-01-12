@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 for learning stashing untracked files and using pop command
+learning for stashing into branch
 
 # TEAM
 
