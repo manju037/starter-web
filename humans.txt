@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+for learning stashing untracked files and using pop command
+
 # TEAM
 
     <name> -- <role> -- <twitter>
