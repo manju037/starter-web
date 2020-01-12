@@ -4,6 +4,7 @@ this is a simple website project for showing
 how  to use git and github together.
 
 Now adding contents for stashing example
+changes for untracked stashing examp
 
 ##Introduction
 
